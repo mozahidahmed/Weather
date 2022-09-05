@@ -1,1 +1,1 @@
-<h6>Live Link :    https://mozahidahmed.github.io/Weather/</h6>
+<h5>https://wadther.netlify.app/</h5>
